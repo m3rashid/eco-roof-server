@@ -79,7 +79,7 @@ pdfarranger==1.8.2
 pexpect==4.8.0
 pickleshare==0.7.5
 pikepdf==5.0.1+dfsg
-Pillow==9.0.1
+Pillow==10.2.0
 pipenv==2023.9.8
 platformdirs==3.10.0
 prompt-toolkit==3.0.39
