@@ -2,16 +2,30 @@
 
 # 🏠 eco-roof-server
 
-**Backend for an eco-roofing business management system.**
+### Backend for an eco-roofing business management system
 
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://python.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
 </div>
 
 ---
 
-## 🛠 Tech
+## 📖 Overview
+
+Backend for an eco-roofing business management system — manages operations, data, and workflows for an eco-roofing business.
+
+## 🏗 Project structure
+
+```
+eco-roof-server/
+├── main.py
+├── config.py
+├── app/
+└── requirements.txt
+```
+
+## 🛠 Tech stack
 
 `Python` · `Flask` · `SQLite`
 
@@ -27,4 +41,4 @@ python main.py
 
 ## 📄 License
 
-MIT
+MIT © [m3rashid](https://github.com/m3rashid)
